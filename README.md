@@ -1,3 +1,9 @@
+Notes:
+
+1. load SSH client `eval "$(ssh-agent -s)"`
+2. add your key to the agent `ssh-add ~/.ssh/id_ed25519`
+3. verify it's loaded `ssh-add -l`
+
 # In 2025,
 
 I'd like to have a better control (and account of the things I consume). I believe in linear deletion/completion of any type of cultured media we are consuming. Pure passive consumption isn't learning.
