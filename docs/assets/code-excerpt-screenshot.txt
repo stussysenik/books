@@ -1,7 +1,10 @@
+Repository: books
+Generated: 2026-03-03
+
+Source: README.md
+
 # Books
-
 2025 reading/watching experiment
-
 ## Documentation & Proof
 - Project narrative: [docs/PROJECT_NARRATIVE.md](docs/PROJECT_NARRATIVE.md)
 - CI guard: [.github/workflows/documentation-proof.yml](.github/workflows/documentation-proof.yml)
